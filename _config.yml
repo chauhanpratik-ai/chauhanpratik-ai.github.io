@@ -26,8 +26,6 @@ permalink: /:year/:month/:day/:title/
 
 show_excerpts: true
 
-paginate: 5
-paginate_path: "/blog/page:num/"
 future: true
 
 include:
