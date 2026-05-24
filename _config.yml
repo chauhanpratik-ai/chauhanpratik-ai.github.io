@@ -1,0 +1,35 @@
+title: VX Player Blog
+description: >-
+  Tips, guides, updates, and news for VX Player — the powerful free HD video
+  player for Android supporting MP4, MKV, AVI, 4K, and more.
+baseurl: ""
+url: "https://chauhanpratik-ai.github.io"
+
+author:
+  name: CGC-Infotech
+  email: chauhanpratik179@gmail.com
+
+twitter_username: chauhanpratik-ai
+github_username: chauhanpratik-ai
+
+theme: minima
+
+minima:
+  skin: dark
+
+header_pages:
+  - about.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+google_analytics: ""
+
+permalink: /:year/:month/:day/:title/
+
+show_excerpts: true
+
+paginate: 5
+paginate_path: "/blog/page:num/"
