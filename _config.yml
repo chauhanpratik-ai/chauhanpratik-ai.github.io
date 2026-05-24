@@ -28,3 +28,6 @@ show_excerpts: true
 
 paginate: 5
 paginate_path: "/blog/page:num/"
+
+include:
+  - googlee379b6f5afea5607.html
