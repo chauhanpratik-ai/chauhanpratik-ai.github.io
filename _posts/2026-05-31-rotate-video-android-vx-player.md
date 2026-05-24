@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Rotate Video on Android — Auto Rotate & Screen Lock in VX Player"
 date: 2026-05-31
@@ -17,11 +17,9 @@ excerpt: "Control screen rotation in VX Player — enable auto-rotate, lock orie
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
   "datePublished": "2026-05-31",
-  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/guides/2026/05/31/rotate-video-android-vx-player/" }
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/05/31/rotate-video-android-vx-player/" }
 }
 </script>
-
-# 🔄 Rotate Video on Android — Auto Rotate & Screen Lock in VX Player
 
 Video rotation is one of those problems that sounds trivial but causes genuine frustration: a video recorded in portrait mode opens sideways on your phone, or a landscape film keeps switching to portrait every time your wrist moves slightly. VX Player gives you complete control over screen orientation during playback.
 
@@ -136,7 +134,7 @@ VX Player's orientation lock lets you optimise for each content type with a sing
 
 VX Player's rotation controls give you complete authority over how video content is displayed on your screen. Auto-rotate for convenience, or lock to your preferred orientation for distraction-free viewing.
 
-[⬇ Download VX Player — Rotation Control Free on Android](https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer){: .btn}
+<a href="https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer" class="btn" target="_blank" rel="noopener noreferrer">⬇ Download VX Player — Rotation Control Free on Android</a>
 
 ---
 

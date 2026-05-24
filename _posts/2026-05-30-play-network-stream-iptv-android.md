@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Play Network Stream & IPTV URL on Android — VX Player Streaming Guide"
 date: 2026-05-30
@@ -17,11 +17,9 @@ excerpt: "Play IPTV URLs, HTTP streams, and M3U playlists directly in VX Player 
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
   "datePublished": "2026-05-30",
-  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/guides/2026/05/30/play-network-stream-iptv-android/" }
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/05/30/play-network-stream-iptv-android/" }
 }
 </script>
-
-# 📡 Play Network Stream & IPTV URL on Android — Complete Guide
 
 Network streaming gives you access to live TV channels, remote video files, and online media directly within VX Player — without downloading anything. Whether you have a direct HTTP video URL, an RTSP camera stream, or an M3U IPTV playlist, VX Player can open and play it in seconds.
 
@@ -156,7 +154,7 @@ VX Player can play videos directly from a NAS, media server, or PC on your home 
 
 VX Player's network streaming support means you never need a separate IPTV app or streaming client — local files and remote streams are managed in the same app with the same interface.
 
-[⬇ Download VX Player — Stream Any URL Free on Android](https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer){: .btn}
+<a href="https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer" class="btn" target="_blank" rel="noopener noreferrer">⬇ Download VX Player — Stream Any URL Free on Android</a>
 
 ---
 

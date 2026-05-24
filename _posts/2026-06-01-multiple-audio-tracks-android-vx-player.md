@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Multiple Audio Tracks in Android Video Player — Switch Languages in VX Player"
 date: 2026-06-01
@@ -17,11 +17,9 @@ excerpt: "Switch between multiple audio tracks and language dubs in VX Player on
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
   "datePublished": "2026-06-01",
-  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/guides/2026/06/01/multiple-audio-tracks-android-vx-player/" }
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/06/01/multiple-audio-tracks-android-vx-player/" }
 }
 </script>
-
-# 🎙️ Multiple Audio Tracks in Android Video Player — Switch Languages in VX Player
 
 Modern video files — particularly MKV containers — routinely contain multiple audio tracks. A single film file might include the original English audio, a French dub, a Spanish dub, and an audio description track for visually impaired viewers, all in one file. Choosing between them should be instant and seamless.
 
@@ -138,7 +136,7 @@ If a specific audio track is slightly out of sync with the video (common in poor
 
 VX Player's multi-track audio support means you never need to keep separate dubbed and subbed versions of the same film. One MKV file with all languages, one player that handles them all.
 
-[⬇ Download VX Player — Multi-Audio Track Support Free on Android](https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer){: .btn}
+<a href="https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer" class="btn" target="_blank" rel="noopener noreferrer">⬇ Download VX Player — Multi-Audio Track Support Free on Android</a>
 
 ---
 

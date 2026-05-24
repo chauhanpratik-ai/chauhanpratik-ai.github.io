@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Gesture Controls in Android Video Player — Swipe to Control Volume & Brightness"
 date: 2026-05-25
@@ -17,11 +17,9 @@ excerpt: "Master gesture controls in VX Player for Android. Swipe to adjust volu
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
   "datePublished": "2026-05-25",
-  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/guides/2026/05/25/gesture-controls-video-player-android/" }
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/05/25/gesture-controls-video-player-android/" }
 }
 </script>
-
-# 👆 Gesture Controls in Android Video Player — Swipe to Control Volume & Brightness
 
 Reaching for on-screen buttons while watching a video is one of those small frustrations that add up fast. You're immersed in a scene, the room gets too bright, and suddenly you're hunting for the brightness slider in a tiny control bar that auto-hides every three seconds.
 
@@ -156,7 +154,7 @@ Access sensitivity in **Settings → Player → Gesture Sensitivity**.
 
 After a week of using VX Player's gestures, you won't touch the volume rocker or brightness panel again during video playback. The entire viewing experience becomes more fluid, more immersive, and far less interrupted. It's one of those features that feels optional until you try it.
 
-[⬇ Download VX Player — Free Gesture Controls for Android](https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer){: .btn}
+<a href="https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer" class="btn" target="_blank" rel="noopener noreferrer">⬇ Download VX Player — Free Gesture Controls for Android</a>
 
 ---
 

@@ -4,6 +4,7 @@ title: "Introducing VX Player — The Ultimate Android Video Player"
 date: 2026-04-15 10:00:00 +0000
 categories: [announcements]
 tags: [vxplayer, android, video-player, launch]
+description: "Meet VX Player — a free, all-format HD video player for Android that plays MP4, MKV, AVI, 4K Ultra HD and more with zero conversion required."
 excerpt: "Meet VX Player — a free, all-format HD video player for Android that plays MP4, MKV, AVI, 4K Ultra HD and more with zero conversion required."
 ---
 

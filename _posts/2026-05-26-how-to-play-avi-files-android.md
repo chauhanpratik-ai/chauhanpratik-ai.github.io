@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "How to Play AVI Files on Android — VX Player AVI Support Guide"
 date: 2026-05-26
@@ -17,11 +17,9 @@ excerpt: "Learn how to play AVI files on Android with VX Player. Full AVI codec 
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
   "datePublished": "2026-05-26",
-  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/guides/2026/05/26/how-to-play-avi-files-android/" }
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/05/26/how-to-play-avi-files-android/" }
 }
 </script>
-
-# 🎬 How to Play AVI Files on Android — Complete Guide
 
 AVI (Audio Video Interleave) is one of the oldest and most widely distributed video container formats. Despite being developed by Microsoft in 1992, AVI files are still everywhere — old home videos, ripped DVDs, downloaded movies from the early internet era, and archival content. The challenge on Android is that most built-in media players have dropped or limited AVI support in favour of modern formats.
 
@@ -143,7 +141,7 @@ For archival or playback purposes, AVI works perfectly in VX Player. If you need
 
 VX Player's software decoder ensures that every AVI file — from a 2003 DivX rip to a modern MPEG-4 AVI — plays back correctly on any Android device. No error messages, no blank screens, no "format not supported" notices.
 
-[⬇ Download VX Player — Play AVI Files Free on Android](https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer){: .btn}
+<a href="https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer" class="btn" target="_blank" rel="noopener noreferrer">⬇ Download VX Player — Play AVI Files Free on Android</a>
 
 ---
 

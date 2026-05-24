@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Pinch to Zoom Video Player Android — Zoom Into Any Video with VX Player"
 date: 2026-05-29
@@ -17,11 +17,9 @@ excerpt: "Use pinch-to-zoom in VX Player to zoom into any video, crop black bars
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
   "datePublished": "2026-05-29",
-  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/guides/2026/05/29/pinch-to-zoom-video-player-android/" }
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/05/29/pinch-to-zoom-video-player-android/" }
 }
 </script>
-
-# 🔍 Pinch to Zoom Video Player Android — Zoom Into Any Video with VX Player
 
 Black bars. The persistent frustration of modern video viewing. A 4:3 film on a 16:9 screen leaves bars on both sides. A 2.39:1 cinematic film on a 16:9 screen leaves bars top and bottom. A 1:1 square video on any standard screen wastes even more space.
 
@@ -146,7 +144,7 @@ Zooming in scales the existing video frame — it does not add resolution. The q
 
 The ability to precisely control what you see on screen — cropping bars, zooming into detail, panning around a frame — turns every video into a personalised viewing experience. VX Player's gesture-based zoom is fast, smooth, and persistent.
 
-[⬇ Download VX Player — Pinch to Zoom Free on Android](https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer){: .btn}
+<a href="https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer" class="btn" target="_blank" rel="noopener noreferrer">⬇ Download VX Player — Pinch to Zoom Free on Android</a>
 
 ---
 

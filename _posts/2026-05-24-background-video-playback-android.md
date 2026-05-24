@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Background Video Playback on Android — Keep Audio Running with Screen Off"
 date: 2026-05-24
@@ -7,8 +7,6 @@ tags: [background video playback android, play video screen off android, backgro
 description: "Learn how to enable background video playback in VX Player on Android. Keep audio running with the screen off, use lock-screen controls, and save battery — a complete how-to guide."
 excerpt: "Learn how to enable background video playback in VX Player on Android. Keep audio running with the screen off, use lock-screen controls, and save battery — a complete how-to guide."
 ---
-
-# 🔇 Background Video Playback on Android — Keep Audio Running with Screen Off
 
 Some of the best video content is actually audio-first. Podcasts published as video files, conference talks on YouTube, music video albums, language learning lessons, university lectures — these are all content you can fully absorb by listening alone. Yet most Android video players stop playback the moment you press the power button or switch apps.
 
@@ -156,7 +154,7 @@ The timer fires a gentle pause when the countdown ends, stopping audio without j
 
 Background playback transforms VX Player from "just a video app" into a complete media player for your entire audio-visual library. Commutes, gym sessions, housework, cooking — any hands-busy situation benefits from continued audio playback with VX Player.
 
-[⬇ Download VX Player — Enable Background Playback Free](https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer){: .btn}
+<a href="https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer" class="btn" target="_blank" rel="noopener noreferrer">⬇ Download VX Player — Enable Background Playback Free</a>
 
 ---
 

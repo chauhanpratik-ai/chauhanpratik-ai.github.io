@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "How to Cast Videos from Android to TV Using VX Player"
 date: 2026-05-19
@@ -7,8 +7,6 @@ tags: [cast video android to tv, chromecast android, screen cast video]
 description: "Learn how to cast videos from Android to your TV using VX Player's Chromecast support. A step-by-step guide to wireless video streaming from phone to big screen — free and easy."
 excerpt: "Learn how to cast videos from Android to your TV using VX Player's Chromecast support. A step-by-step guide to wireless video streaming from phone to big screen — free and easy."
 ---
-
-# 📡 How to Cast Videos from Android to TV Using VX Player
 
 There's nothing quite like watching your favourite film or series on a big screen. With VX Player's built-in **Chromecast support**, you can wirelessly beam any video from your Android phone or tablet directly to your TV — no cables, no HDMI adapters, no extra apps. In minutes, your small-screen video becomes a proper home cinema experience.
 
@@ -132,7 +130,7 @@ Screen mirroring introduces slightly more latency and reduces battery life faste
 
 VX Player's Chromecast integration turns your phone into a universal remote and media server. Any format, any resolution, any source — cast it to the big screen without paying for additional hardware or subscriptions.
 
-[⬇ Download VX Player — Cast to TV Free](https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer){: .btn}
+<a href="https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer" class="btn" target="_blank" rel="noopener noreferrer">⬇ Download VX Player — Cast to TV Free</a>
 
 ---
 

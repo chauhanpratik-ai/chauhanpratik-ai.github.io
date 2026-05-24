@@ -8,8 +8,6 @@ description: "A complete guide to adding and using subtitles in VX Player on And
 excerpt: "A complete guide to adding and using subtitles in VX Player on Android. Learn how to load .SRT, .ASS, and embedded subtitle tracks, adjust timing, change font size, and fix common issues."
 ---
 
-# 🔤 How to Add and Use Subtitles in VX Player — Complete Android Guide
-
 Subtitles transform the viewing experience. Whether you're watching a foreign-language film, following along with a fast-paced action scene, or catching every word of a documentary with heavy accents, having reliable subtitles matters. VX Player for Android offers one of the most comprehensive subtitle systems of any free mobile video player — supporting multiple formats, real-time sync adjustment, font customisation, and more.
 
 This guide covers everything: how to load external subtitles, enable embedded tracks, fix sync issues, and make subtitles look exactly the way you want them.

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Picture-in-Picture Video on Android — Multitask While You Watch"
 date: 2026-05-21
@@ -7,8 +7,6 @@ tags: [picture in picture android, pip video android, floating video player]
 description: "Learn how to use Picture-in-Picture (PiP) mode in VX Player on Android. Watch videos in a floating window while browsing, messaging, or using other apps — step-by-step guide."
 excerpt: "Learn how to use Picture-in-Picture (PiP) mode in VX Player on Android. Watch videos in a floating window while browsing, messaging, or using other apps — step-by-step guide."
 ---
-
-# 📱 Picture-in-Picture Video on Android — Multitask While You Watch
 
 There are moments when you're deep into a documentary, a sports match, or a lecture video and someone texts you. You pause, reply, lose your flow, and return to the video. Repeat this five times and the experience is ruined. **Picture-in-Picture (PiP) mode** solves this completely — your video shrinks into a floating window that stays on screen while you do everything else on your phone.
 
@@ -143,7 +141,7 @@ You can drag the window mid-stream to reposition it whenever the content underne
 
 Picture-in-Picture is one of those features you don't know you need until you have it — and then you can't imagine going back. VX Player's seamless PiP implementation, combined with background audio and full gesture control, makes it the best multitasking video player for Android in 2026.
 
-[⬇ Download VX Player — Enable PiP Free](https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer){: .btn}
+<a href="https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer" class="btn" target="_blank" rel="noopener noreferrer">⬇ Download VX Player — Enable PiP Free</a>
 
 ---
 

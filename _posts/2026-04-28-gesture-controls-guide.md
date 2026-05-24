@@ -4,6 +4,7 @@ title: "Master VX Player's Gesture Controls — Swipe to Control Everything"
 date: 2026-04-28 09:00:00 +0000
 categories: [guides]
 tags: [gestures, controls, tips, how-to]
+description: "Learn how to use VX Player's intuitive swipe gestures to control brightness, volume, seek position, and zoom — without touching a single button."
 excerpt: "Learn how to use VX Player's intuitive swipe gestures to control brightness, volume, seek position, and zoom — without touching a single button."
 ---
 
