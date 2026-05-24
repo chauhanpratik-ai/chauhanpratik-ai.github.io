@@ -1,0 +1,109 @@
+---
+layout: default
+title: VX Player Blog — Android Video Player Tips & Guides
+---
+
+<div class="vx-home">
+
+  <!-- ── Hero ── -->
+  <section class="vx-hero">
+    <div class="vx-hero-inner">
+      <div class="vx-hero-badge">Android Video Player</div>
+      <h1 class="vx-hero-title">VX Player Blog</h1>
+      <p class="vx-hero-sub">Tips, guides, and updates for the best free HD video player on Android — 4K, MKV, subtitles, IPTV and more.</p>
+      <a href="https://play.google.com/store/apps/details?id=com.cgcinfotech.vxplayer" class="vx-hero-btn" target="_blank" rel="noopener noreferrer">
+        ⬇ &nbsp;Download Free on Google Play
+      </a>
+    </div>
+  </section>
+
+  <!-- ── Posts ── -->
+  <div class="wrapper" style="padding: 2.5rem 1.5rem 4rem;">
+
+    <div class="vx-section-head">
+      <h2>Latest Articles</h2>
+      <span class="vx-post-count">{{ site.posts | size }} posts</span>
+    </div>
+
+    <div class="vx-grid" id="vx-grid">
+      {%- for post in site.posts -%}
+      <a href="{{ post.url | relative_url }}" class="vx-card" data-idx="{{ forloop.index0 }}">
+        <div class="vx-card-accent"></div>
+        <div class="vx-card-body">
+          <div class="vx-card-top">
+            <span class="vx-card-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            {%- if post.categories.first -%}
+            <span class="vx-card-cat">{{ post.categories.first }}</span>
+            {%- endif -%}
+          </div>
+          <h3 class="vx-card-title">{{ post.title }}</h3>
+          {%- if post.excerpt -%}
+          <p class="vx-card-excerpt">{{ post.excerpt | strip_html | truncate: 115 }}</p>
+          {%- endif -%}
+          {%- if post.tags.size > 0 -%}
+          <div class="vx-card-tags">
+            {%- for tag in post.tags limit: 3 -%}
+            <span class="vx-tag">{{ tag }}</span>
+            {%- endfor -%}
+          </div>
+          {%- endif -%}
+          <div class="vx-card-footer">
+            <span>Read article</span>
+            <svg class="vx-card-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/>
+            </svg>
+          </div>
+        </div>
+      </a>
+      {%- endfor -%}
+    </div>
+
+    <!-- scroll sentinel + loader -->
+    <div id="vx-sentinel" style="height:1px;margin-top:1.5rem;"></div>
+    <div id="vx-loader" class="vx-loader" style="display:none;">
+      <span></span><span></span><span></span>
+    </div>
+
+  </div>
+</div>
+
+<script>
+(function () {
+  var BATCH = 9;
+  var cards = Array.prototype.slice.call(document.querySelectorAll('.vx-card'));
+  var shown = 0;
+
+  function reveal() {
+    var end = Math.min(shown + BATCH, cards.length);
+    for (var i = shown; i < end; i++) {
+      (function (card, delay) {
+        setTimeout(function () {
+          card.classList.add('vx-visible');
+        }, delay);
+      })(cards[i], (i - shown) * 55);
+    }
+    shown = end;
+    if (shown >= cards.length) {
+      io.disconnect();
+      document.getElementById('vx-sentinel').style.display = 'none';
+    }
+  }
+
+  // First batch immediately
+  reveal();
+
+  var loader = document.getElementById('vx-loader');
+
+  var io = new IntersectionObserver(function (entries) {
+    if (entries[0].isIntersecting && shown < cards.length) {
+      loader.style.display = 'flex';
+      setTimeout(function () {
+        loader.style.display = 'none';
+        reveal();
+      }, 380);
+    }
+  }, { rootMargin: '300px' });
+
+  io.observe(document.getElementById('vx-sentinel'));
+})();
+</script>
