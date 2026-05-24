@@ -6,11 +6,8 @@ baseurl: ""
 url: "https://chauhanpratik-ai.github.io"
 
 author:
-  name: CGC-Infotech
+  name: VX Player
   email: chauhanpratik179@gmail.com
-
-twitter_username: chauhanpratik-ai
-github_username: chauhanpratik-ai
 
 theme: minima
 
