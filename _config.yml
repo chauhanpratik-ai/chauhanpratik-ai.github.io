@@ -5,9 +5,7 @@ description: >-
 baseurl: ""
 url: "https://vxplayer.github.io"
 
-author:
-  name: VX Player
-  email: chauhanpratik179@gmail.com
+author: VX Player
 
 theme: minima
 
