@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Rotate Video on Android — Auto Rotate & Screen Lock in VX Player"
-date: 2026-05-31
+date: 2026-05-25
 categories: [guides]
 tags: [rotate video android, screen rotation video player, landscape portrait android video]
 description: "Learn how to control screen rotation in VX Player on Android. Enable auto-rotate, lock to landscape or portrait, and permanently rotate video files that play in the wrong orientation."
@@ -16,7 +16,7 @@ excerpt: "Control screen rotation in VX Player — enable auto-rotate, lock orie
   "description": "Learn how to control screen rotation in VX Player on Android. Enable auto-rotate, lock to landscape or portrait, and permanently rotate video files.",
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
-  "datePublished": "2026-05-31",
+  "datePublished": "2026-05-25",
   "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/05/31/rotate-video-android-vx-player/" }
 }
 </script>

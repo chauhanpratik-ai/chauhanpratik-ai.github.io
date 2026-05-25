@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
 title: "How to Add and Use Subtitles in VX Player — Complete Android Guide"
-date: 2026-05-17
+date: 2026-05-25
 categories: [guides]
 tags: [subtitles android video player, add subtitles android, srt subtitles vx player]
 description: "A complete guide to adding and using subtitles in VX Player on Android. Learn how to load .SRT, .ASS, and embedded subtitle tracks, adjust timing, change font size, and fix common issues."

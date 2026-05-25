@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Background Video Playback on Android — Keep Audio Running with Screen Off"
-date: 2026-05-24
+date: 2026-05-25
 categories: [guides]
 tags: [background video playback android, play video screen off android, background audio android]
 description: "Learn how to enable background video playback in VX Player on Android. Keep audio running with the screen off, use lock-screen controls, and save battery — a complete how-to guide."

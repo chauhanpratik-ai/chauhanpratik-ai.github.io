@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Video Player with Hardware Acceleration Android — Smooth Playback in VX Player"
-date: 2026-06-03
+date: 2026-05-25
 categories: [guides]
 tags: [hardware acceleration android video, smooth video playback android, hardware decoder android]
 description: "Understand hardware vs software decoding in VX Player on Android. Enable hardware acceleration for smooth 4K playback and extend battery life during long video sessions."
@@ -16,7 +16,7 @@ excerpt: "Enable hardware acceleration in VX Player for smooth 4K playback, lowe
   "description": "Understand hardware vs software decoding in VX Player. Enable hardware acceleration for smooth 4K playback and better battery life on Android.",
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
-  "datePublished": "2026-06-03",
+  "datePublished": "2026-05-25",
   "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/06/03/hardware-acceleration-android-video-player/" }
 }
 </script>

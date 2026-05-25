@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
 title: "How to Create and Manage Playlists in VX Player on Android"
-date: 2026-06-06
+date: 2026-05-25
 categories: [guides]
 tags: [vx player playlist android, create playlist android video player, manage video playlist android]
 description: "Learn how to create, edit, and manage playlists in VX Player on Android. Group your favourite movies, episodes, and videos into organised playlists for non-stop playback."
@@ -16,7 +16,7 @@ excerpt: "Learn how to create, edit, and manage playlists in VX Player on Androi
   "description": "Step-by-step guide to creating, editing, and managing playlists in VX Player on Android for uninterrupted video playback.",
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
-  "datePublished": "2026-06-06",
+  "datePublished": "2026-05-25",
   "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/06/06/how-to-create-manage-playlists-vx-player-android/" }
 }
 </script>

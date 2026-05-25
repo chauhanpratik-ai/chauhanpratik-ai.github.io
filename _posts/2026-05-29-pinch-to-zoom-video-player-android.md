@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Pinch to Zoom Video Player Android — Zoom Into Any Video with VX Player"
-date: 2026-05-29
+date: 2026-05-25
 categories: [guides]
 tags: [pinch to zoom video android, zoom video player android, video zoom android]
 description: "Learn how to use pinch-to-zoom in VX Player on Android. Zoom into any video frame, crop black bars, and pan around zoomed video for a better viewing experience."
@@ -16,7 +16,7 @@ excerpt: "Use pinch-to-zoom in VX Player to zoom into any video, crop black bars
   "description": "Learn how to use pinch-to-zoom in VX Player on Android. Zoom into any video frame, crop black bars, and pan around zoomed video.",
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
-  "datePublished": "2026-05-29",
+  "datePublished": "2026-05-25",
   "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/05/29/pinch-to-zoom-video-player-android/" }
 }
 </script>

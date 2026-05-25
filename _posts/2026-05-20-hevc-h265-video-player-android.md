@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Play H.265/HEVC Videos on Android — VX Player Guide"
-date: 2026-05-20
+date: 2026-05-25
 categories: [guides]
 tags: [hevc h265 android, h265 video player android, hevc decoder mobile]
 description: "Can't play H.265/HEVC videos on Android? VX Player includes a full HEVC hardware decoder for smooth 4K H.265 playback on any compatible Android device — completely free."

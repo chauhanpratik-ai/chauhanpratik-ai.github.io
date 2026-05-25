@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Best Video Player for Large Files on Android — Play 10GB+ Videos with VX Player"
-date: 2026-06-04
+date: 2026-05-25
 categories: [guides]
 tags: [large video files android, play big video files android, 10gb video android player]
 description: "Play large video files up to 10GB and beyond on Android with VX Player. Handle Blu-ray rips, uncompressed recordings, and high-bitrate 4K files without stuttering."
@@ -16,7 +16,7 @@ excerpt: "VX Player handles large video files of 10GB and beyond on Android — 
   "description": "Play large video files up to 10GB and beyond on Android with VX Player. Handle Blu-ray rips, uncompressed recordings, and high-bitrate 4K files.",
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
-  "datePublished": "2026-06-04",
+  "datePublished": "2026-05-25",
   "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/06/04/best-video-player-large-files-android/" }
 }
 </script>

@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Playback Speed Control Android — Slow Motion & Fast Forward in VX Player"
-date: 2026-05-28
+date: 2026-05-25
 categories: [guides]
 tags: [playback speed android, slow motion video android, fast forward video android, speed control video player]
 description: "Control video playback speed in VX Player on Android. Play at 0.25x slow motion or 2x fast forward. Perfect for learning, sports review, and time-saving video consumption."
@@ -16,7 +16,7 @@ excerpt: "Control video playback speed in VX Player on Android. Play at 0.25x sl
   "description": "Control video playback speed in VX Player on Android. Play at 0.25x slow motion or 2x fast forward for learning, sports review, and efficient viewing.",
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
-  "datePublished": "2026-05-28",
+  "datePublished": "2026-05-25",
   "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/05/28/playback-speed-control-android/" }
 }
 </script>

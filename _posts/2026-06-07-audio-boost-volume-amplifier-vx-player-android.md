@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
 title: "Audio Boost in VX Player — Amplify Volume Beyond 100% on Android"
-date: 2026-06-07
+date: 2026-05-25
 categories: [guides]
 tags: [audio boost android video player, volume amplifier android, vx player louder volume, increase volume beyond 100 android]
 description: "VX Player's audio boost lets you amplify volume up to 200% on Android. Learn how to enable the volume booster, use the equalizer, and get louder, clearer audio from any video."
@@ -16,7 +16,7 @@ excerpt: "VX Player's audio boost lets you amplify volume up to 200% on Android.
   "description": "How to use VX Player's audio boost and equalizer to amplify volume up to 200% and get the best sound from videos on Android.",
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
-  "datePublished": "2026-06-07",
+  "datePublished": "2026-05-25",
   "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/06/07/audio-boost-volume-amplifier-vx-player-android/" }
 }
 </script>

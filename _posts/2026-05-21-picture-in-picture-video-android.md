@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Picture-in-Picture Video on Android — Multitask While You Watch"
-date: 2026-05-21
+date: 2026-05-25
 categories: [guides]
 tags: [picture in picture android, pip video android, floating video player]
 description: "Learn how to use Picture-in-Picture (PiP) mode in VX Player on Android. Watch videos in a floating window while browsing, messaging, or using other apps — step-by-step guide."

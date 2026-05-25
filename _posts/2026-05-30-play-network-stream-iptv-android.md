@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Play Network Stream & IPTV URL on Android — VX Player Streaming Guide"
-date: 2026-05-30
+date: 2026-05-25
 categories: [guides]
 tags: [play network stream android, iptv url android, stream url video player android, m3u android]
 description: "Learn how to play network streams, IPTV URLs, and M3U playlists in VX Player on Android. Open HTTP, RTSP, and M3U8 streams directly without a browser or separate app."
@@ -16,7 +16,7 @@ excerpt: "Play IPTV URLs, HTTP streams, and M3U playlists directly in VX Player 
   "description": "Learn how to play network streams, IPTV URLs, and M3U playlists in VX Player on Android. Open HTTP, RTSP, and M3U8 streams directly.",
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
-  "datePublished": "2026-05-30",
+  "datePublished": "2026-05-25",
   "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/05/30/play-network-stream-iptv-android/" }
 }
 </script>

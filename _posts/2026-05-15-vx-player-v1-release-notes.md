@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
 title: "VX Player v1.0 — Release Notes"
-date: 2026-05-15 08:00:00 +0000
+date: 2026-05-25
 categories: [releases]
 tags: [release-notes, changelog, v1.0]
 description: "VX Player v1.0 is live on the Google Play Store. Here's everything that shipped in our first public release — from 4K playback to gesture controls and IPTV support."

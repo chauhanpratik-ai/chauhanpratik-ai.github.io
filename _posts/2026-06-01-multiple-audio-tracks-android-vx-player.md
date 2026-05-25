@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Multiple Audio Tracks in Android Video Player — Switch Languages in VX Player"
-date: 2026-06-01
+date: 2026-05-25
 categories: [guides]
 tags: [multiple audio tracks android, switch audio language android, change audio track video player]
 description: "Switch between multiple audio tracks and language dubs in VX Player on Android. Play MKV and MP4 files with multiple audio streams and choose your preferred language instantly."
@@ -16,7 +16,7 @@ excerpt: "Switch between multiple audio tracks and language dubs in VX Player on
   "description": "Switch between multiple audio tracks and language dubs in VX Player on Android. Play MKV and MP4 files with multiple audio streams.",
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
-  "datePublished": "2026-06-01",
+  "datePublished": "2026-05-25",
   "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/06/01/multiple-audio-tracks-android-vx-player/" }
 }
 </script>

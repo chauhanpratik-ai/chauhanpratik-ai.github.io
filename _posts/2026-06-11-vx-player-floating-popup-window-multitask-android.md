@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
 title: "VX Player Floating Popup Window — Watch Videos While Multitasking on Android"
-date: 2026-06-11
+date: 2026-05-25
 categories: [guides]
 tags: [floating video player android, popup video player android, vx player popup window, multitask video android]
 description: "VX Player's floating popup window lets you watch videos while using other apps on Android. Learn how to enable the floating player, resize it, and multitask like a pro."
@@ -16,7 +16,7 @@ excerpt: "VX Player's floating popup window lets you watch videos while using ot
   "description": "How to use VX Player's floating window and Picture-in-Picture mode to watch videos while using other apps on Android.",
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
-  "datePublished": "2026-06-11",
+  "datePublished": "2026-05-25",
   "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/06/11/vx-player-floating-popup-window-multitask-android/" }
 }
 </script>

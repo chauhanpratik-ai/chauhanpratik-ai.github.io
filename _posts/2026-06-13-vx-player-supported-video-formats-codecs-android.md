@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
 title: "Complete VX Player Supported Video Formats & Codecs List for Android"
-date: 2026-06-13
+date: 2026-05-25
 categories: [guides]
 tags: [vx player supported formats, video formats android, vx player codecs, what formats does vx player support]
 description: "Full list of video formats and codecs supported by VX Player on Android — MP4, MKV, AVI, MOV, HEVC, AV1, VP9, and more. Find out if your file will play before downloading."
@@ -16,7 +16,7 @@ excerpt: "Full list of video formats and codecs supported by VX Player on Androi
   "description": "Comprehensive list of all video containers, video codecs, audio codecs, and subtitle formats supported by VX Player on Android.",
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
-  "datePublished": "2026-06-13",
+  "datePublished": "2026-05-25",
   "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/06/13/vx-player-supported-video-formats-codecs-android/" }
 }
 </script>

@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Private Video Player Android — Password Protect Videos with VX Player"
-date: 2026-06-02
+date: 2026-05-25
 categories: [guides]
 tags: [private video player android, password protect video android, hide videos android]
 description: "Keep your personal videos private on Android with VX Player's private mode. Password protect your video library, hide files from the gallery, and secure sensitive content."
@@ -16,7 +16,7 @@ excerpt: "Keep personal videos private on Android with VX Player's private mode 
   "description": "Keep your personal videos private on Android with VX Player's private mode. Password protect your video library and hide files from the gallery.",
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
-  "datePublished": "2026-06-02",
+  "datePublished": "2026-05-25",
   "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/06/02/private-video-player-android/" }
 }
 </script>

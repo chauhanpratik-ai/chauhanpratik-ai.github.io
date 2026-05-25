@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "How to Play AVI Files on Android — VX Player AVI Support Guide"
-date: 2026-05-26
+date: 2026-05-25
 categories: [guides]
 tags: [play avi files android, avi video player android, avi codec android]
 description: "Learn how to play AVI files on Android with VX Player. Full AVI codec support, troubleshooting guide, and comparison with other formats — no conversion needed."
@@ -16,7 +16,7 @@ excerpt: "Learn how to play AVI files on Android with VX Player. Full AVI codec 
   "description": "Learn how to play AVI files on Android with VX Player. Full AVI codec support, troubleshooting guide, and comparison with other formats.",
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
-  "datePublished": "2026-05-26",
+  "datePublished": "2026-05-25",
   "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/05/26/how-to-play-avi-files-android/" }
 }
 </script>

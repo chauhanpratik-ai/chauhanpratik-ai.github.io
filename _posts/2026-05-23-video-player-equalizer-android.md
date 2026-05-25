@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Video Player with Equalizer for Android — Boost Audio in VX Player"
-date: 2026-05-23
+date: 2026-05-25
 categories: [guides]
 tags: [video player equalizer android, audio boost android, bass boost video player]
 description: "Learn how to use VX Player's built-in equalizer and bass boost on Android. Customize audio for movies, music videos, and gaming with a 10-band EQ and preset profiles — completely free."

@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Night Mode Video Player Android — Watch Videos Comfortably in the Dark"
-date: 2026-05-27
+date: 2026-05-25
 categories: [guides]
 tags: [night mode video player android, dark mode video player, eye care android video]
 description: "Enable night mode in VX Player on Android for comfortable dark viewing. Reduce eye strain with screen dimming, blue light filter, and adaptive brightness for night watching."
@@ -16,7 +16,7 @@ excerpt: "Enable night mode in VX Player on Android for comfortable dark viewing
   "description": "Enable night mode in VX Player on Android for comfortable dark viewing. Reduce eye strain with screen dimming, blue light filter, and adaptive brightness.",
   "author": { "@type": "Organization", "name": "VX Player" },
   "publisher": { "@type": "Organization", "name": "VX Player" },
-  "datePublished": "2026-05-27",
+  "datePublished": "2026-05-25",
   "mainEntityOfPage": { "@type": "WebPage", "@id": "https://vxplayer.github.io/2026/05/27/night-mode-video-player-android/" }
 }
 </script>
